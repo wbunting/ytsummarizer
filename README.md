@@ -89,8 +89,11 @@ To summarize a YouTube video, run the script with the video URL as an argument:
 
 ```sh
 ./ytsummarizer <video_url>
+```
+
 Example:
 
+```
 ./ytsummarizer https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
