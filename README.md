@@ -1,9 +1,9 @@
 # ytsummarizer 
 
-![License](https://img.shields.io/github/license/your-username/ytsummarize)
-![Issues](https://img.shields.io/github/issues/your-username/ytsummarize)
-![Stars](https://img.shields.io/github/stars/your-username/ytsummarize)
-![Forks](https://img.shields.io/github/forks/your-username/ytsummarize)
+![License](https://img.shields.io/github/license/wbunting/ytsummarize)
+![Issues](https://img.shields.io/github/issues/wbunting/ytsummarize)
+![Stars](https://img.shields.io/github/stars/wbunting/ytsummarize)
+![Forks](https://img.shields.io/github/forks/wbunting/ytsummarize)
 
 ## Overview
 
