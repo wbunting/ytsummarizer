@@ -57,14 +57,14 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/wbunting/ytsummarize.git
-    cd ytsummarize
+    git clone https://github.com/wbunting/ytsummarizer.git
+    cd ytsummarizer
     ```
 
 2. Make the script executable:
 
     ```sh
-    chmod +x ytsummarize.sh
+    chmod +x ytsummarizer
     ```
 
 ### Configuration
@@ -74,13 +74,13 @@ To use the OpenAI API, you need to set up your API key:
 1. Create a configuration directory:
 
     ```sh
-    mkdir -p ~/.config/ytsummarize
+    mkdir -p ~/.config/ytsummarizer
     ```
 
 2. Save your OpenAI API key in a file:
 
     ```sh
-    echo "YOUR_OPENAI_API_KEY" > ~/.config/ytsummarize/api_key
+    echo "YOUR_OPENAI_API_KEY" > ~/.config/ytsummarizer/api_key
     ```
 
 ## Usage
@@ -88,10 +88,10 @@ To use the OpenAI API, you need to set up your API key:
 To summarize a YouTube video, run the script with the video URL as an argument:
 
 ```sh
-./ytsummarize.sh <video_url>
+./ytsummarizer <video_url>
 Example:
 
-./ytsummarize.sh https://www.youtube.com/watch?v=dQw4w9WgXcQ
+./ytsummarizer https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
 ## Requirements
