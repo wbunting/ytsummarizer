@@ -1,13 +1,28 @@
 # ytsummarizer 
 
-![License](https://img.shields.io/github/license/wbunting/ytsummarize)
-![Issues](https://img.shields.io/github/issues/wbunting/ytsummarize)
-![Stars](https://img.shields.io/github/stars/wbunting/ytsummarize)
-![Forks](https://img.shields.io/github/forks/wbunting/ytsummarize)
+---
 
-## Overview
+<p align="center">
+    <a> <img src=.assets/logo.png></a>
+    <br />
+    <br />
+	<a href="https://github.com/wbunting/ytsummarizer/stargazers"><img src="https://img.shields.io/github/stars/wbunting/ytsummarizer?color=orange&logo=github&style=flat-square"></a>
+    <a href="https://github.com/wbunting/ytsummarizer"><img src="https://img.shields.io/github/license/wbunting/ytsummarize"></a>
+	<a href="https://github.com/wbunting/ytsummarizer/commits/master"><img src="https://img.shields.io/github/commit-activity/m/wbunting/ytsummarizer?color=green&style=flat-square"></a>
+    <br />
+    <br />
+    <i>`ytsummarizer` is a Bash script that leverages AI to generate concise summaries of YouTube videos using their subtitles. This tool helps you quickly understand the content of videos without having to watch them in their entirety.</i>
+	<hr>
+</p>
 
-`ytsummarizer` is a Bash script that leverages AI to generate concise summaries of YouTube videos using their subtitles. This tool helps you quickly understand the content of videos without having to watch them in their entirety.
+<h1 align="center">
+   Here's a demo
+</h1>
+<p align="center">
+<img src=.assets/demo.gif width="100%">
+</p>
+
+---
 
 ## Features
 
@@ -15,6 +30,7 @@
 - **Subtitle Extraction**: Automatically extracts subtitles from YouTube videos.
 - **Simple to Use**: Just provide the YouTube video link, and the script handles the rest.
 - **Open Source**: Fully open source and free to use (except for the OpenAI credits)
+
 
 ## Table of Contents
 

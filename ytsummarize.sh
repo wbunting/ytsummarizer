@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # ENVIRONMENT VARIABLES {{{
-: "${AISUMMARIZER_CONFIG_DIR:=${XDG_CONFIG_HOME:-$HOME/.config}/ai-summarizer}"
+: "${YTSUMMARIZER_CONFIG_DIR:=${XDG_CONFIG_HOME:-$HOME/.config}/ytsummarizer}"
 #}}}
 
-API_KEY_FILE="$AISUMMARIZER_CONFIG_DIR/api_key"
+API_KEY_FILE="$YTSUMMARIZER_CONFIG_DIR/api_key"
 
 if [ ! -f "$API_KEY_FILE" ]; then
   echo "API key file not found. Please add your API key to $API_KEY_FILE"
